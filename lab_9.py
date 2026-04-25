@@ -1,4 +1,4 @@
-# Функция пузырьковой сортировки
+
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -9,7 +9,7 @@ def bubble_sort(arr):
     return arr
 
 
-# Функция двоичного поиска
+
 def binary_search(arr, target):
     left = 0
     right = len(arr) - 1
